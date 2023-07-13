@@ -1,7 +1,6 @@
 # Summary
 
-- [Introduction](README.md)
-- [Chapter 1: Introduction](chapter-1.md)
+- [Chapter 1: Introduction](README.md)
   - [Defining Collaboration and Effective Communication](chapter-1-1.md)
   - [The Importance of Collaboration in Achieving Organizational Success](chapter-1-2.md)
   - [Why Understanding the Power of Collaboration in Effective Communication is Critical for Fostering Innovation](chapter-1-3.md)
@@ -33,9 +32,5 @@
   - [Techniques for Addressing Issues in Collaboration and Communication](chapter-8-1.md)
   - [Identifying and Addressing Misalignment](chapter-8-2.md)
   - [Fostering a Culture of Communication and Collaboration](chapter-8-3.md)
-- [Chapter 9: Conclusion](chapter-9.md)
-  - [Recap of Key Points and Strategies](chapter-9-1.md)
-  - [Final Recommendations for Encouraging Collaboration in Effective Communication](chapter-9-2.md)
-  - [Future Directions for Research and Practice](chapter-9-3.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)

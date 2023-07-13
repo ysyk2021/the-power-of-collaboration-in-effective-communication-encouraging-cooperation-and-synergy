@@ -1,4 +1,4 @@
-Chapter 7: Measuring and Evaluating Collaboration Effectiveness: Metrics for Measuring Collaboration Effectiveness
+Metrics for Measuring Collaboration Effectiveness
 ==================================================================================================================
 
 Measuring and evaluating collaboration effectiveness is critical for organizational success. In this chapter, we'll explore metrics for measuring collaboration effectiveness and how to use these metrics to evaluate the success of collaborative initiatives.

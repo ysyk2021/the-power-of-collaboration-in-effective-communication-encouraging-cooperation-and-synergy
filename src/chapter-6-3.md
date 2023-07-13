@@ -1,4 +1,4 @@
-Chapter 6: Leveraging Technology for Collaboration and Communication: Integrating Technology into Your Collaborative Processes
+Integrating Technology into Your Collaborative Processes
 ==============================================================================================================================
 
 Technology can be a powerful tool for enhancing collaboration and communication within organizations. In this chapter, we'll explore how to effectively integrate technology into your collaborative processes.

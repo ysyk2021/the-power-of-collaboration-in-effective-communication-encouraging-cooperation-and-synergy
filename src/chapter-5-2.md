@@ -1,4 +1,4 @@
-Chapter 5: Collaborative Problem-Solving and Decision-Making: Brainstorming and Ideation Techniques
+Brainstorming and Ideation Techniques
 ===================================================================================================
 
 Collaborative problem-solving and decision-making are essential for organizational success. In this chapter, we'll explore brainstorming and ideation techniques that can help teams generate innovative solutions.

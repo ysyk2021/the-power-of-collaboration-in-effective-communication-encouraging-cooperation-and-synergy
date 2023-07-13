@@ -1,4 +1,4 @@
-Chapter 8: Addressing Issues in Collaboration and Communication: Techniques for Addressing Issues in Collaboration and Communication
+Techniques for Addressing Issues in Collaboration and Communication
 ====================================================================================================================================
 
 Collaboration and communication are essential for organizational success, but issues can arise that impede progress. In this chapter, we'll explore techniques for addressing issues in collaboration and communication.

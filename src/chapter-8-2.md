@@ -1,4 +1,4 @@
-Chapter 8: Addressing Issues in Collaboration and Communication: Identifying and Addressing Misalignment
+Identifying and Addressing Misalignment
 ========================================================================================================
 
 Misalignment is a common issue that can impede effective collaboration and communication within organizations. In this chapter, we'll explore how to identify and address misalignment within teams and across departments.

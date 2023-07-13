@@ -1,4 +1,4 @@
-Chapter 3: Building a Collaborative Culture: Fostering Trust and Transparency
+Fostering Trust and Transparency
 =============================================================================
 
 Fostering trust and transparency is essential to building a collaborative culture. In this chapter, we'll explore techniques for fostering trust and transparency in collaborative teams.

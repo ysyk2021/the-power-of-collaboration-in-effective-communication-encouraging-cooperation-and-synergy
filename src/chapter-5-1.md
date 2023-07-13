@@ -1,4 +1,4 @@
-Chapter 5: Collaborative Problem-Solving and Decision-Making: Techniques for Collaborative Problem-Solving and Decision-Making
+Techniques for Collaborative Problem-Solving and Decision-Making
 ==============================================================================================================================
 
 Collaborative problem-solving and decision-making require effective communication, collaboration, and a structured approach. In this chapter, we'll explore techniques for collaborative problem-solving and decision-making.

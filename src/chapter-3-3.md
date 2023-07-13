@@ -1,4 +1,4 @@
-Chapter 3: Building a Collaborative Culture: Encouraging Open Dialogue and Feedback
+Encouraging Open Dialogue and Feedback
 ===================================================================================
 
 Building a collaborative culture is essential to effective teamwork. In this chapter, we'll explore techniques for encouraging open dialogue and feedback to promote collaboration.

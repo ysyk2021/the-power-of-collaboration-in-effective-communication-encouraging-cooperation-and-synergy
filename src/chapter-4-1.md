@@ -1,4 +1,4 @@
-Chapter 4: Principles of Effective Communication: Techniques for Effective Communication in Collaborative Teams
+Techniques for Effective Communication in Collaborative Teams
 ===============================================================================================================
 
 Effective communication is essential to successful collaboration within a team. In this chapter, we'll explore techniques for effective communication in collaborative teams.

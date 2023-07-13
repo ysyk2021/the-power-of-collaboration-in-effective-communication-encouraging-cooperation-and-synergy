@@ -1,4 +1,4 @@
-Chapter 9: Conclusion: Final Recommendations for Encouraging Collaboration in Effective Communication
+Final Recommendations for Encouraging Collaboration in Effective Communication
 =====================================================================================================
 
 Collaboration and effective communication are critical elements of successful teamwork and organizational success. In this final chapter, we'll provide some final recommendations for encouraging collaboration in effective communication within your organization.

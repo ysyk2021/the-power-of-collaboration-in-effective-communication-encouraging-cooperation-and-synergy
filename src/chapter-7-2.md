@@ -1,4 +1,4 @@
-Chapter 7: Measuring and Evaluating Collaboration Effectiveness: Evaluating Individual and Organizational Performance
+Evaluating Individual and Organizational Performance
 =====================================================================================================================
 
 Measuring and evaluating collaboration effectiveness is critical for organizational success. In this chapter, we'll explore how to evaluate individual and organizational performance in relation to collaborative initiatives.

@@ -1,4 +1,4 @@
-Chapter 3: Building a Collaborative Culture: Techniques for Building a Collaborative Culture
+Techniques for Building a Collaborative Culture
 ============================================================================================
 
 Building a collaborative culture is essential to effective teamwork. In this chapter, we'll explore techniques for building a collaborative culture.

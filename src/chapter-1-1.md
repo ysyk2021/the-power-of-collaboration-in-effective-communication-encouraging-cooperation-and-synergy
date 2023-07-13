@@ -1,4 +1,4 @@
-Chapter 1: Introduction: Defining Collaboration and Effective Communication
+Defining Collaboration and Effective Communication
 ===========================================================================
 
 Collaboration and effective communication are essential components of successful teamwork. In this chapter, we'll define collaboration and effective communication and explore why they are critical for achieving organizational success.

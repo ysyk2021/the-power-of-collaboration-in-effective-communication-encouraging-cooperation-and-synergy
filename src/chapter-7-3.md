@@ -1,4 +1,4 @@
-Chapter 7: Measuring and Evaluating Collaboration Effectiveness: Continuous Improvement in Collaboration Processes
+Continuous Improvement in Collaboration Processes
 ==================================================================================================================
 
 Measuring and evaluating collaboration effectiveness is crucial to ensuring that projects are successful and that teams are working together efficiently. In this chapter, we'll explore techniques for measuring and evaluating collaboration effectiveness and how to continuously improve collaboration processes.

@@ -1,4 +1,4 @@
-Chapter 4: Principles of Effective Communication: Clear and Concise Messaging
+Clear and Concise Messaging
 =============================================================================
 
 Clear and concise messaging is essential to effective communication in collaborative teams. In this chapter, we'll explore the importance of clear and concise messaging and techniques for achieving it.

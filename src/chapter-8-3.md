@@ -1,4 +1,4 @@
-Chapter 8: Addressing Issues in Collaboration and Communication: Fostering a Culture of Communication and Collaboration
+Fostering a Culture of Communication and Collaboration
 =======================================================================================================================
 
 Collaboration and communication are critical for organizational success, but issues can arise that impede effective collaboration. In this chapter, we'll explore how to address issues in collaboration and communication by fostering a culture of communication and collaboration.

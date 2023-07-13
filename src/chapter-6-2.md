@@ -1,4 +1,4 @@
-Chapter 6: Leveraging Technology for Collaboration and Communication: Using Collaboration Tools to Enhance Communication
+Using Collaboration Tools to Enhance Communication
 ========================================================================================================================
 
 Collaboration tools can be powerful aids for enhancing communication within organizations. In this chapter, we'll explore how collaboration tools can be used to promote effective communication, improve collaboration, and boost productivity.

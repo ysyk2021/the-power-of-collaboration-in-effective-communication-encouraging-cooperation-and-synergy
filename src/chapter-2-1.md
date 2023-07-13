@@ -1,4 +1,4 @@
-Chapter 2: Overview of Collaboration in Effective Communication: Different Aspects of Collaboration in Effective Communication
+Different Aspects of Collaboration in Effective Communication
 ==============================================================================================================================
 
 Collaboration is a key component of effective communication, but it involves more than just working together. In this chapter, we'll explore different aspects of collaboration in effective communication.

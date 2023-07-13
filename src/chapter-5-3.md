@@ -1,4 +1,4 @@
-Chapter 5: Collaborative Problem-Solving and Decision-Making: Consensus Building and Conflict Resolution Strategies
+Consensus Building and Conflict Resolution Strategies
 ===================================================================================================================
 
 Collaborative problem-solving and decision-making are critical components of effective teamwork. In this chapter, we'll explore consensus building and conflict resolution strategies that can help teams work together more effectively.

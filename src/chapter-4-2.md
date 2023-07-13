@@ -1,4 +1,4 @@
-Chapter 4: Principles of Effective Communication: Active Listening and Empathy Skills
+Active Listening and Empathy Skills
 =====================================================================================
 
 Effective communication is a critical component of successful collaboration. In this chapter, we'll explore the principles of effective communication, including active listening and empathy skills.
