@@ -8,7 +8,4 @@ With this book, readers will learn how to harness the power of collaboration to 
 
 So, if you want to unlock the full potential of your team, build stronger relationships, and communicate more effectively, pick up "The Power of Collaboration in Effective Communication: Encouraging Cooperation and Synergy" today.
 
-
-
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
