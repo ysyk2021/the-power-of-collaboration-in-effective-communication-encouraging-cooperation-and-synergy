@@ -1,4 +1,4 @@
-Chapter 5: Brainstorming and Ideation Techniques
+Brainstorming and Ideation Techniques
 ================================================
 
 In this chapter, we will explore various brainstorming and ideation techniques that can be used to encourage collaboration and synergy in effective communication. These techniques are valuable tools for generating innovative ideas and solutions within teams or organizations. By utilizing these methods, individuals can tap into their collective intelligence and creativity to achieve desired outcomes.

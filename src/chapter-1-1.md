@@ -1,4 +1,4 @@
-Chapter 1: Defining Collaboration and Effective Communication
+Defining Collaboration and Effective Communication
 =============================================================
 
 Introduction
