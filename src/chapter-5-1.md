@@ -1,4 +1,4 @@
-Chapter Four: Techniques for Collaborative Problem-Solving and Decision-Making
+Techniques for Collaborative Problem-Solving and Decision-Making
 ==============================================================================
 
 
