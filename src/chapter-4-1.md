@@ -1,5 +1,3 @@
-Techniques for Effective Communication in Collaborative Teams
-======================================================================
 
 Effective communication is the cornerstone of successful collaboration within teams. This chapter explores various techniques and strategies that can be employed to enhance communication effectiveness in collaborative teams. By implementing these techniques, teams can foster better understanding, encourage cooperation, and promote synergy among team members.
 

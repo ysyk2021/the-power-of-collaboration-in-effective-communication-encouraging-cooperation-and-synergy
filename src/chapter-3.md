@@ -1,5 +1,3 @@
-Chapter 3: Building a Collaborative Culture
-===========================================
 
 Building a collaborative culture is essential to effective teamwork. In this chapter, we'll explore techniques for building a collaborative culture, including fostering trust and transparency, and encouraging open dialogue and feedback.
 
@@ -32,5 +30,4 @@ Encouraging open dialogue and feedback is another key component of building a co
 * Lead by example: Leaders should model open dialogue and receptiveness to feedback to set the tone for the team.
 
 By using techniques for building a collaborative culture, fostering trust and transparency, and encouraging open dialogue and feedback, teams can work together effectively and achieve success in their projects. Remember that building a collaborative culture is an ongoing process that requires consistent effort and attention over time.
-
 

@@ -1,5 +1,3 @@
-Chapter 4: Principles of Effective Communication
-================================================
 
 Effective communication is a crucial component of successful collaboration. In this chapter, we'll explore the principles of effective communication and techniques for achieving it in collaborative teams.
 

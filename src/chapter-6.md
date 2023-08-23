@@ -1,5 +1,3 @@
-Chapter 6: Leveraging Technology for Collaboration and Communication
-====================================================================
 
 Technology can be a powerful tool for collaboration and effective communication. In this chapter, we'll explore techniques for leveraging technology to enhance collaboration and communication within your organization.
 
