@@ -34,3 +34,4 @@
   - [Fostering a Culture of Communication and Collaboration](chapter-8-3.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
